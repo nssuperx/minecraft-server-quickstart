@@ -4,3 +4,4 @@ Auto configuration and run for Minecraft server
 
 ## 動作確認
 * WSL2 Ubuntu 20.04
+* Windows11 21H2
