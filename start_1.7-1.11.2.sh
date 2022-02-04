@@ -9,7 +9,7 @@ if [ ! -x "$JAVACMD" ] ; then
     rm amazon-corretto-8-x64*
 fi
 
-# log4j configuration
+# log4j2 configuration
 ls log4j2_17-111.xml > /dev/null
 if [ $? -ne 0 ]; then
     wget https://launcher.mojang.com/v1/objects/dd2b723346a8dcd48e7f4d245f6bf09e98db9696/log4j2_17-111.xml
