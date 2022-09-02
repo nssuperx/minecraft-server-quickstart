@@ -89,7 +89,7 @@ mcserver/
 
 ## 動作確認
 
-* WSL2 Ubuntu 20.04
+* Ubuntu 20.04
 * Windows11 21H2
 
 ## Log4j2 重要なお知らせ important message
