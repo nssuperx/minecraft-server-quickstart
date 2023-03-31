@@ -87,10 +87,6 @@ mcserver/
     * 次回以降、パッチがあるならスキップ
 3. サーバー実行
 
-## 動作確認
-
-* Ubuntu 20.04
-* Windows11 21H2
 
 ## Log4j2 重要なお知らせ important message
 
